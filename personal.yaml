@@ -1,0 +1,7 @@
+trojan://YDQfd9GBVu@jp.kyosakuyo.com:443#日本x86的Trojan节点
+trojan://YDQfd9GBVu@detectivenemo.top:443#香港的Trojan节点
+vless://2b276dcd-7c8d-466d-aba1-7ff7876cf541@us.kyosakuyo.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#美国的Vless节点
+hysteria://jp.kyosakuyo.com:30045?protocol=wechat-video&auth=KyoS@kuyo1009&peer=jp.kyosakuyo.com&insecure=0&upmbps=37&downmbps=100&alpn=h3#日本x86的Hys节点
+hysteria://kyosakuyo.com:58985?protocol=udp&auth=KyoS@kuyo1009&peer=kyosakuyo.com&insecure=0&upmbps=37&downmbps=100&alpn=h3#日本ARM的Hys节点
+hysteria://us.kyosakuyo.com:58847?protocol=wechat-video&auth=KyoS@kuyo1009&peer=us.kyosakuyo.com&insecure=0&upmbps=37&downmbps=100&alpn=h3#美国的Hys节点
+hysteria://detectivenemo.top:32257?protocol=udp&auth=KyoS@kuyo1009&peer=detectivenemo.top&insecure=0&upmbps=37&downmbps=100&alpn=h3#香港的Hys节点
