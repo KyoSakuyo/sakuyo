@@ -42,7 +42,7 @@ proxy-providers:
     type: http
     url: https://ghproxy.com/https://raw.githubusercontent.com/KyoSakuyo/BILI/main/personal.yaml
     interval: 0
-    path: ./proxys/personal4.yaml
+    path: ./proxys/personal5.yaml
     health-check:
       enable: true
       interval: 600
@@ -50,7 +50,7 @@ proxy-providers:
       
   fnf:
    type: http
-   path: ./proxys/test.yaml
+   path: ./proxys/test5.yaml
    url: https://sub.fnf.one/link/nM7OX5eeyrn3Rk7N?clash=1
    interval: 0
    health-check:
@@ -60,7 +60,7 @@ proxy-providers:
 
   Linkhub:
    type: http
-   path: ./proxys/Linkhub.yaml
+   path: ./proxys/Linkhub5.yaml
    url: http://link.linkdns.xyz:9092/link/MiYaG4zXSYsNfbXD?clash=1&extend=1
    interval: 0
    health-check:
