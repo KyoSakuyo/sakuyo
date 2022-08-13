@@ -40,7 +40,7 @@ proxies:
 proxy-providers:
   Personal:
     type: http
-    url: https://ghproxy.com/https://raw.githubusercontent.com/KyoSakuyo/BILI/main/personal.yaml
+    url: https://ghproxy.com/https://raw.githubusercontent.com/KyoSakuyo/sakuyoCx/master/personal.yaml
     interval: 0
     path: ./proxys/personal5.yaml
     health-check:
